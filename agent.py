@@ -22,7 +22,7 @@ load_dotenv()
 
 user_info = {
     "language": "English",
-    "name": "Shubhansh Nigam",
+    "name": "Naman Kumar Singh",
     "role": "Software Engineer",
     "iq": [
         "What is a REST API?",
