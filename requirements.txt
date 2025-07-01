@@ -1,0 +1,32 @@
+# Core LiveKit and AI Agent dependencies
+livekit
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-turn-detector
+
+# Web framework and API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Authentication and security
+PyJWT
+python-jose[cryptography]
+
+# Environment and configuration
+python-dotenv
+
+# HTTP client
+requests
+httpx
+
+# Async support
+asyncio-mqtt
+
+# Logging and monitoring
+structlog
+
+# Optional: For development and testing
+pytest
+pytest-asyncio
